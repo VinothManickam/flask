@@ -6,7 +6,7 @@ This is a simple Python API for  built using the Flask framework.
 **Clone this repo.**
 
 ```bash
-git clone https://github.com/VinothManickam/vinoth.git
+git clone https://github.com/VinothManickam/flask.git
 ```
 
 ## Installation
